@@ -5,7 +5,7 @@
   "id": "/learn-ai/",
 "start_url": "/learn-ai/",
 "scope": "/learn-ai/"
-  "display": "standalone",
+  "display": "standalone",F
   "orientation": "portrait",
   "background_color": "#060816",
   "theme_color": "#060816",
@@ -28,12 +28,12 @@
       "name": "Continue learning",
       "short_name": "Learn",
       "description": "Jump back into your lessons",
-      "url": "/index.html?screen=main"
+      "url": "/learn-ai/?screen=main"
     },
     {
       "name": "My profile",
       "short_name": "Profile",
-      "url": "/index.html?screen=profile"
+      "url": "/learn-ai/?screen=profile"
     }
   ]
 }
